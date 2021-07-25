@@ -23,12 +23,12 @@ is too simple to provide an answer, but the comparison is interesting, I think.
 
 First, you'll need to install TensorFlow and Numpy:
 
-1.  ```pip install --upgrade pip
-1.  ```pip install tensorflow
-1.  ```pipe install numpy
+1.  `pip install --upgrade pip`
+1.  `pip install tensorflow`
+1.  `pipe install numpy`
 1.  Then run the training example:
-    ```python3 train_hello_world.py
+    `python3 train_hello_world.py`
 1.  To re-use the model you just generated, run:
-    ```python3 use_hello_world.py
+    `python3 use_hello_world.py`
 1.  Finally, to run a simple function to calculate the same results, run:
-    ```python3 simple_func.py
+    `python3 simple_func.py`
